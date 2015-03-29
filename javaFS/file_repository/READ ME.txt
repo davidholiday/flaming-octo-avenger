@@ -1,0 +1,11 @@
+11FEB14
+DAVID'S SIMPLE FILE SERVER
+DAVID HOLIDAY (NEUBURGER) 815258347
+
+INSTRUCTIONS: 
+
+1) run the .jar file (make sure it's in the same directory as ~/downloads and ~/file_repository)
+
+2) select mode. server to act as server, client to act as client, both to run tests
+
+3) type help at in either the server or client consoles for further assitance. 
